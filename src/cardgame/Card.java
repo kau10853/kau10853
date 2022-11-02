@@ -6,7 +6,7 @@ package cardgame;
 
 /**
  *
- * @author 14372
+ * @author Mandeep Kaur
  */
 public class Card {
    public enum Suit{
