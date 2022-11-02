@@ -10,7 +10,7 @@ package cardgame;
  */
 public class Card {
    public enum Suit{
-       HERATS,CLUBS,SPADES,DIAMONDS
+       HERATS,CLUBS,SPADES,DIAMOND
    }
     public enum Value{
       ACE,TWO,THREE,FOUR,FIVE,SIX,SEVEN,EIGHT,NINE,TEN,JACK,QUEEN,KING
